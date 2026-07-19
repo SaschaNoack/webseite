@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#c9d7c6"/>
+  <circle cx="720" cy="90" r="55" fill="#f1c56b"/>
+  <path d="M0 355 Q180 260 350 350 T900 330 V500 H0Z" fill="#789782"/>
+  <path d="M0 400 Q220 330 430 405 T900 380 V500 H0Z" fill="#527362"/>
+  <g stroke="#24322d" stroke-width="12" stroke-linecap="round">
+    <circle cx="285" cy="250" r="32" fill="#e2a878"/>
+    <circle cx="385" cy="235" r="32" fill="#845d46"/>
+    <circle cx="485" cy="248" r="32" fill="#d8a174"/>
+    <circle cx="585" cy="230" r="32" fill="#6d4937"/>
+    <path d="M285 290v105M385 275v120M485 288v107M585 270v125"/>
+    <path d="M285 310l100-20 100 18 100-15" fill="none"/>
+  </g>
+  <text x="450" y="465" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#fff">Gemeinsam ist es schöner</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+  <rect width="900" height="500" fill="#f0d9c6"/>
+  <rect y="330" width="900" height="170" fill="#b88462"/>
+  <ellipse cx="450" cy="355" rx="275" ry="75" fill="#e8c594" stroke="#24322d" stroke-width="8"/>
+  <g stroke="#24322d" stroke-width="10">
+    <circle cx="265" cy="205" r="42" fill="#bd7d52"/>
+    <circle cx="430" cy="155" r="42" fill="#76503d"/>
+    <circle cx="610" cy="205" r="42" fill="#d49a70"/>
+    <path d="M265 247v80M430 197v115M610 247v80"/>
+  </g>
+  <g fill="#fff" stroke="#24322d" stroke-width="5">
+    <ellipse cx="370" cy="340" rx="35" ry="15"/>
+    <ellipse cx="505" cy="370" rx="35" ry="15"/>
+    <rect x="427" y="310" width="46" height="54" rx="8"/>
+  </g>
+  <text x="450" y="460" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="#fff">Zeit für Begegnung</text>
+</svg>
